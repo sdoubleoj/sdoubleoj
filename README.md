@@ -44,3 +44,6 @@ Hi! I'm an AI Researcher & Engineer building LLM systems — from embedding mode
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+
+----
+![](./profile-3d-contrib/profile-night-rainbow.svg)
