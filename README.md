@@ -31,6 +31,7 @@ Hi! I'm an AI Researcher & Engineer building LLM systems — from embedding mode
   - 🔧 Collaboration & Etc.: GitHub, GitLab, Docker, Linux, Notion, Slack
 </details>
 
+----
 ### 💪 Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
